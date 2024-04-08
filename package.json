@@ -1,0 +1,11 @@
+{
+  "name": "laomutest1",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laomu",
+  "license": "ISC"
+}
